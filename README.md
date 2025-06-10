@@ -1,12 +1,16 @@
 # Engr. Dr. Naeem Raza
 
 # Education :  
-## 1. PhD Computer Science, National Textile University, Faisalabad, Punjab, Pakistan
-## 2. MS Computer Science, National Textile University, Faisalabad, Punjab, Pakistan
-## 3. BSc Telecommunication Engineering, Faisalabad, Punjab, Pakistan
+## 1. PhD Computer Science, National Textile University, Faisalabad, Punjab, Pakistan (2025)
+## 2. MS Computer Science, National Textile University, Faisalabad, Punjab, Pakistan (2015)
+## 3. BSc Telecommunication Engineering, Faisalabad, Punjab, Pakistan (2009)
 
 # Teaching :  
-## Lecturer Computer Science, National University of Modern Languages, Faisalabad Campus, Punjab, Pakistan
+## 1. LATEST: Lecturer Computer Science, National University of Modern Languages, Faisalabad Campus, Punjab, Pakistan (2022-To Date)
+## 2. Lecturer Computer Science and Software Engineering, Superior University, Lahore, Punjab, Pakistan (2020-2022)
+## 3. Lecturer Computer Science, Punjab College of Commerce (University of Central Punjab), Faisalabad, Punjab, Pakistan (2019-2020)
+## 4. Lecturer Computer Science and Information Technology, University of Sargodha, Lyallpur Campus, Faisalabad, Punjab, Pakistan (2014-2019)
+
 
 # Research Publications: [Google Scholar](https://scholar.google.com.pk/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=t0F6GFIAAAAJ&authuser=1/)
 ## Journal Papers
