@@ -8,7 +8,7 @@
 # Teaching :  
 ## Lecturer Computer Science, National University of Modern Languages, Faisalabad Campus, Punjab, Pakistan
 
-# Research : 
+# Research Publications: [Google Scholar](https://scholar.google.com.pk/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=t0F6GFIAAAAJ&authuser=1/)
 ## Journal Papers
 ### 1. Raza, Naeem, et al. "Efficient and Cost-Effective Vehicle Detection in Foggy Weather for Edge/Fog-Enabled Traffic Surveillance and Collision Avoidance Systems." Computers, Materials & Continua 81.1 (2024).
 ### 2. Soofi, Aized Amin, Muhammad Tahir, and Naeem Raza. "Securing the internet of things: a comprehensive review of security challenges and artificial intelligence solutions." Foundation University Journal of Engineering and Applied Sciences (HEC Recognized Y Category, ISSN 2706-7351) 4.2 (2024): 1-20.
@@ -20,3 +20,6 @@
 ### 1. Raza, Naeem, Mudassar Ahmad, and Muhammad Asif Habib. "Assessment of Efficient and Cost-Effective Vehicle Detection in Foggy Weather." 2024 18th International Conference on Open Source Systems and Technologies (ICOSST). IEEE, 2024.
 ### 2. M Faizan Khan HR Naqvi, M Tahir, N Raza, MR Jafri, RSSI-based energy efficient underwater localization technique for AUVs, IEEE International Conference on High Performance Computing and Communications (HPCC), 1204-1210, 2024/12/17
 ### 3. Raza, Naeem, et al. "Social vehicle-to-everything (V2X) communication model for intelligent transportation systems based on 5G scenario." Proceedings of the 2nd international conference on future networks and distributed systems. 2018.
+
+# Peer Reviews Articles : 19
+
