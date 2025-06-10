@@ -21,5 +21,5 @@
 ### 2. M Faizan Khan HR Naqvi, M Tahir, N Raza, MR Jafri, RSSI-based energy efficient underwater localization technique for AUVs, IEEE International Conference on High Performance Computing and Communications (HPCC), 1204-1210, 2024/12/17
 ### 3. Raza, Naeem, et al. "Social vehicle-to-everything (V2X) communication model for intelligent transportation systems based on 5G scenario." Proceedings of the 2nd international conference on future networks and distributed systems. 2018.
 
-# Peer Reviews Articles : 19
+# Peer Review Articles (As Reviewer) : 19
 
